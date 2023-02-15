@@ -7,7 +7,7 @@ string name;
 name = "John";
 //Declre Init
 //Example
-string desig = "Manager";
+string desig = "Manager Data";
 //Data Type
 char _special = '%';
 int age = 24324;
