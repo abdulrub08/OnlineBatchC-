@@ -1,0 +1,15 @@
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.exe
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.deps.json
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.runtimeconfig.json
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.dll
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.pdb
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.AssemblyReference.cache
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfoInputs.cache
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfo.cs
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.CoreCompileInputs.cache
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.dll
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\obj\Debug\net6.0\refint\MyFirstApp.dll
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.pdb
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.genruntimeconfig.cache
+E:\RavishBatch\CSharpLeaning\CSharpOops\Batch 5-30\Introduction\MyFirstApp\MyFirstApp\obj\Debug\net6.0\ref\MyFirstApp.dll

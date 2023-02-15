@@ -1,0 +1,131 @@
+Types of Applications :
+
+1> Console Application :
+Whenever the user accepts the i/p from the console and projects the o/p on the console, then such type of applications are called as 
+console Appl.
+	
+	Where console is a device which has a capability to accept 
+the information and also to display the information.
+
+> All C lang. appl. are console application. There are no "GUI".
+
+
+
+
+
+
+
+ex1 > A program to print a Message.
+
+Open Notepad and type the logic as follows and save it with name "Test.cs"
+
+
+using System;  				
+class Test
+{
+static void Main()
+{
+Console.WriteLine("Hello");
+Console.ReadLine();
+}
+}
+
+
+Save it as "Test.cs"
+
+
+
+Steps for compiling the program :
+
+1) Open Visual Studio.net Command prompt 
+(start > programs > MS Visual Studio 2008 > Visual studio tools > Visual studio 2008 Command Prompt)
+
+D:\New>csc Test.cs
+
+obs : Test.exe file created
+
+D:\New>Test.exe
+
+obs : 
+using System;
+using is a keyword, which imports the classes of system Namespace ( Collection Of classes )
+
+
+
+
+Class Test
+> Class is a keyword
+
+Static void Main()
+> static = keyword
+> void = return type 
+> Main = function Name
+
+
+Always execution starts from Main()
+
+
+
+
+Console.Write("Hello");
+> Console = predefined class
+> . = Member Access Operator
+> Write = Method (function)
+> Hello = String
+
+
+
+
+ex 2 : Writing a program with .Net (Integrated development environment)
+
+open .Net IDE
+Start > Programs > MS Visual Studio 2008
+
+		or
+
+Start > Run > Devenv
+
+
+File Menu > New > Project
+
+
+
+D
+
+
+
+obs : For every project a new folder will be created where the folder name will be same as
+ project name.
+
+
+Default folder Structure
+
+D:\New\First\Bin\Debug\output files
+
+
+In ASP.Net project file is not be created.
+
+
+Open Program.cs file from project solution explorer
+
+
+write the following code in side of Main()
+{
+Console.Write("Hello");
+Console.Write(DateTime.Now);
+Console.ReadKey();
+}
+
+
+
+Execute the Project (Press F5 or debug > Start debugging)
+
+
+
+
+Working with DataTypes
+
+Data Types specifies type of the Data and size of the
+ Data.
+
+C#.Net Datatypes are divided into two types.
