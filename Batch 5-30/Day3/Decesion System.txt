@@ -1,0 +1,20 @@
+				Tyoe Of Operator
+
+Airth Matic (+, -, * ,/ ,% )
+Relation (>,<,==,<=,>=)
+Logical (&&(AND), !!(NOT), ||(OR))
+Conditional()
+Increment & Decrement(a+1, a++, a--,a-1, +a,-a)
+Assigment (=)
+
+Body(block)//Require True
+Body(block)//Optional False
+int a=3;
+if(a==3)
+{
+//Statement Code True Case
+}
+else
+{
+//Statement Code False
+}
