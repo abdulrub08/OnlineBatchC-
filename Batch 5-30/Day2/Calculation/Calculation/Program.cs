@@ -1,16 +1,18 @@
 ﻿using AbdulRub;
 using Calculation;
 
+
 // See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+//Console.WriteLine("Hello, World!");
 DecesionSystem decesion = new DecesionSystem();
-decesion.AcceptNumber();
-decesion.CheckItsEvenOrOdd();
+decesion.DisplayTable();
+//decesion.AcceptNumber();
+//decesion.CheckItsEvenOrOdd();
 //decesion.CheckSmallestNumber();
 //MakeSquare obj = new MakeSquare();
 //obj.EnaterNValue();
 //obj.DisplayNSquare();
-Console.Read();
+//Console.Read();
 
 //InputTwoNumberFromUser();
 //Add();
@@ -50,6 +52,12 @@ Console.Read();
 
 //AirthMatic Operator
 //- + % * /
+
+//a=97,b=98-------z=122
+//A=65,B=66-------Z=90
+//Difference 32 
+//65+32=97
+//97-32=65
 
 
 
