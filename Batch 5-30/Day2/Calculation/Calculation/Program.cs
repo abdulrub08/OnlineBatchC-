@@ -1,11 +1,12 @@
 ﻿using AbdulRub;
 using Calculation;
 
-
+LoopExample loopExample = new LoopExample();
+loopExample.PrintAllSmallLater();
 // See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
-DecesionSystem decesion = new DecesionSystem();
-decesion.DisplayTable();
+//DecesionSystem decesion = new DecesionSystem();
+//decesion.DisplayTable();
 //decesion.AcceptNumber();
 //decesion.CheckItsEvenOrOdd();
 //decesion.CheckSmallestNumber();
@@ -58,6 +59,11 @@ decesion.DisplayTable();
 //Difference 32 
 //65+32=97
 //97-32=65
+
+//Study
+//While loop
+//Do While Loop
+
 
 
 
