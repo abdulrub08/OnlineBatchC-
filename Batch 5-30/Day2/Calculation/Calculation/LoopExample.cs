@@ -8,10 +8,11 @@ namespace Calculation
 {
     public class LoopExample
     {
+        public int i;
+        public static int salary;
         public void PrintSquareValue()
         {
             //1 ,4,9,16,25......
-            int i = 1;
             while (i <= 10)
             {
                 Console.WriteLine(i*i);
@@ -29,6 +30,16 @@ namespace Calculation
                 i++;
             }
             Console.WriteLine("\n\n\n");
+        }
+        public static void DisplaySalary()
+        {
+            salary += 1500;
+            Console.WriteLine(salary);
+        }
+        public void DisplayStudentDetails(string name,int age)
+        {
+            Console.WriteLine("Name is :- "+ name);
+            Console.WriteLine("Age is :- " + age);
         }
         //1----20
        // 1,2 3,---20

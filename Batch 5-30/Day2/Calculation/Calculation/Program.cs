@@ -1,8 +1,33 @@
 ﻿using AbdulRub;
 using Calculation;
 
-LoopExample loopExample = new LoopExample();
-loopExample.PrintAllSmallLater();
+Person p1 = new Person("Wally",27);
+p1.DisplaySeries();
+Person p3 = new Person("Wally",27);
+Person p4 = new Person("Wally",27);
+Person p5 = new Person("Wally", 27);
+
+//LoopExample loopExample = new LoopExample();
+//Person p = new Person("Wally",27);
+//Person p2 = new Person("Terri", 30);
+//p2.Salary = 20;
+//p2.Spouse = p2;
+//p2.Salary = 30;
+Console.Read();
+//LoopExample.salary = 2000;
+//
+//LoopExample.DisplaySalary();
+//Console.WriteLine();
+//loopExample.DisplayStudentDetails("Test Data", 30);
+//loopExample.i = 30;
+//loopExample = null;
+//loopExample = new LoopExample();
+//loopExample.i = 20;
+//loopExample.PrintSquareValue();
+//loopExample.i = 10;
+//loopExample.salary = (40 * 5000);
+//loopExample.DisplaySalary();
+
 // See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 //DecesionSystem decesion = new DecesionSystem();
