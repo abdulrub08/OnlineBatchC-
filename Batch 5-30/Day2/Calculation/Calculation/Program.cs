@@ -1,11 +1,34 @@
 ﻿using AbdulRub;
 using Calculation;
+using CustomerTransaction;
 
-Person p1 = new Person("Wally",27);
-p1.DisplaySeries();
-Person p3 = new Person("Wally",27);
-Person p4 = new Person("Wally",27);
-Person p5 = new Person("Wally", 27);
+
+//CustomerInfo customerInfo = new CustomerInfo();
+//customerInfo._name = "Abdul";
+//customerInfo._id = 1;
+//customerInfo.age = 20;
+//customerInfo.department = "IT";
+
+Spouse _obj_person = new Spouse()
+{
+    Name = "XYZ",
+    Age = 23,
+    Salary = 2000
+};
+CustomerService customerService = new CustomerService();
+bool _checkAdd = customerService.AddCustomerInfo();
+_checkAdd = customerService.AddCustomerInfo(10);
+_checkAdd = customerService.AddCustomerInfo(_obj_person);
+if (_checkAdd)
+{
+   customerService.DisplayCustomerInfo();
+}
+
+//Person p1 = new Person("Wally",27);
+//p1.DisplaySeries();
+//Person p3 = new Person("Wally",27);
+//Person p4 = new Person("Wally",27);
+//Person p5 = new Person("Wally", 27);
 
 //LoopExample loopExample = new LoopExample();
 //Person p = new Person("Wally",27);
@@ -88,6 +111,16 @@ Console.Read();
 //Study
 //While loop
 //Do While Loop
+
+///
+/// 
+//Inhiretance
+//Interface
+//Method Overriding
+//Constructor Overloading
+//this Keyword
+/// 
+///
 
 
 

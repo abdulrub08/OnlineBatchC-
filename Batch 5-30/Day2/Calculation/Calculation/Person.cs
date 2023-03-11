@@ -12,6 +12,7 @@ namespace Calculation
         private string Name;
         private int Age;
         public int Salary;
+        public Person Spouse;
         static Person()
         {
             NewName = "Test data";
@@ -23,7 +24,6 @@ namespace Calculation
             Name = name;
             Age = age;
         }
-        public Person Spouse;
         public static void Displaydata()
         {
            
